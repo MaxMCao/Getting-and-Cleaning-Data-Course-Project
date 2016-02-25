@@ -1,4 +1,4 @@
-This code book summarizes the resulting data fields in tidy.txt.
+This code book summarizes the resulting data fields in Final_tidy_data.txt.
 Identifiers
 
     subject - The ID of the test subject
